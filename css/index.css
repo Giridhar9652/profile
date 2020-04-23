@@ -1,0 +1,96 @@
+body{
+     
+    
+    background-color: rgba(179, 179, 0, 0.5);
+	font-size: 30px;
+	background: radial-gradient(50% #9C2A41);
+	font-family: cookie;
+
+}
+#myvideo
+{
+	position: fixed;right: 0;
+	z-index: -10;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+
+ 
+
+
+ .div-header{ 
+background-color: white;
+ 	max-width: 1200px;
+    margin: 0 auto;
+ 	
+ }
+
+ img
+ {
+ 	float: left
+ 	
+ }
+
+ .nav-header{
+
+ 	float: right;
+ 	padding-top: 30px;
+
+ }
+
+  .nav-header p{
+     
+      
+       display: inline;
+ }
+
+ a{
+    color: red;
+ 	text-decoration: none;
+ 	padding-left: 30px;
+
+ }
+ a:hover{
+
+ 	color: green;
+ }
+
+ .clear{
+ 	clear: both;
+
+ }
+.clear img{
+	padding-left: 50px;
+	padding-top: 10px;
+	border-radius: 50%;
+}
+
+.article
+{
+	float: right;
+}
+
+section{
+	padding-top: 10px;
+}
+ article{
+ 	padding-right: 500px;
+ 	padding-top: 50px;
+ 	font-style:italic;
+ }
+ ul{
+ 	list-style-type:
+ }
+ 
+
+ .aside-header{
+ 	max-width: 200px
+ 	margin: 0 auto;
+ 	/*border: 2px dotted pink;*/
+ 	clear: both;
+ 	padding-top: 10px;
+ 	padding-left: 500px;
+
+ }

@@ -1,0 +1,40 @@
+body{
+	background-image: url('../images/apps.jpg');
+	background-size: cover;
+}
+
+div{
+
+	border: cover;
+	background-color: rgba(191, 191, 191, 0.5);
+    color: rgb(255, 0, 255);
+	border:2px solid  green;
+	padding: 50px 50px 50px 50px;
+}
+i{
+	font-size: 2em;
+	padding-top: 10px;
+}
+
+
+
+.whatsapp{
+     color: white;
+     border: 1px solid black
+     padding-bottom: 20px;
+     font-size: 2em;
+}
+
+.fb {
+ color: blue;
+ border: 1px solid black
+  padding-bottom: 20px;
+     font-size: 2em;
+}
+
+.mail{
+	 color: red;
+	 border: 1px solid black
+	  padding-bottom: 20px;
+     font-size: 2em;
+}

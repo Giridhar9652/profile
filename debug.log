@@ -1,0 +1,8 @@
+[0420/104111.328:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0422/230820.471:ERROR:process_info.cc(359)] UncheckedAllocate
+[0422/230820.495:ERROR:process_info.cc(359)] UncheckedAllocate
+[0423/183445.604:ERROR:process_info.cc(359)] UncheckedAllocate
+[0423/183446.291:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0423/183521.061:ERROR:process_info.cc(359)] UncheckedAllocate
+[0423/183521.128:ERROR:process_info.cc(359)] UncheckedAllocate
+[0423/214545.198:ERROR:process_info.cc(359)] UncheckedAllocate

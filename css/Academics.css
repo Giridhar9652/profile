@@ -1,0 +1,24 @@
+body{
+
+	background-image: url('../images/library.jpg');
+	background-size: cover;
+	font-size: 2em;
+}
+
+#myvideo
+{
+	position: fixed;right: 0;
+	z-index: -5;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+div{
+	border: cover;
+	background-color: rgba(191, 191, 191, 0.5);
+    color:white; /*rgb(255, 0, 255);*/
+	border:2px solid  green;
+	padding: 100px 100px 100px 100px;
+	font-family: helvetica;
+}
