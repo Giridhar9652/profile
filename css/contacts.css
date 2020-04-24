@@ -10,7 +10,7 @@ body{
 	background-color: rgba(191, 191, 191, 0.5);
     color: rgb(255, 0, 255);
 	border:2px solid  green;
-	padding: 100px 100px 100px 100px;
+	padding: 100px 100px 80px 100px;
 }
 i{
 	font-size: 2em;
