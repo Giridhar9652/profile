@@ -36,7 +36,8 @@ background-color: transparent;
   .nav-header p{
      
       
-       display: inline;font-size: 2em;
+       display: inline;
+	  font-size: 2em;
  }
 
  a{
