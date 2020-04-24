@@ -3,18 +3,56 @@ body{
 	background-size: cover;
 }
 
-div{
+.contacts{
 
 	border: cover;
 	background-color: rgba(191, 191, 191, 0.5);
     color: rgb(255, 0, 255);
 	border:2px solid  green;
-	padding: 50px 50px 50px 50px;
+	padding: 100px 100px 100px 100px;
 }
 i{
 	font-size: 2em;
 	padding-top: 10px;
 }
+.div-header{ 
+background-color: transparent;
+ 	max-width: 1200px;
+    margin: 0 auto;
+ 	
+ }
+
+ img
+ {
+ 	float: left
+ 	
+ }
+
+ .nav-header{
+
+ 	float: right;
+ 	padding-top: 30px;
+
+ }
+
+  .nav-header p{
+     
+      
+       display: inline;
+ }
+
+ a{
+    color: red;
+ 	text-decoration: none;
+ 	padding-left: 30px;
+ 	font-size: 2em;
+
+ }
+ a:hover{
+
+ 	color: green;
+ }
+
 
 
 
