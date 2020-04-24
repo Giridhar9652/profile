@@ -3,7 +3,8 @@ body{
 	background-image: url('../images/library.jpg');
 	background-size: cover;
 	font-size: 2em;
-}.div-header{ 
+}
+.div-header{ 
 background-color: transparent;
  	max-width: 1200px;
     margin: 0 auto;
