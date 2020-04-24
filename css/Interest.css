@@ -13,7 +13,45 @@ body{
 	min-height: 100%;
 }*/
 
-div{
+.div-header{ 
+background-color: transparent;
+ 	max-width: 1200px;
+    margin: 0 auto;
+ 	
+ }
+
+ img
+ {
+ 	float: left
+ 	
+ }
+
+ .nav-header{
+
+ 	float: right;
+ 	padding-top: 30px;
+
+ }
+
+  .nav-header p{
+     
+      
+       display: inline;font-size: 2em;
+ }
+
+ a{
+    color: red;
+ 	text-decoration: none;
+ 	padding-left: 30px;
+ 	
+
+ }
+ a:hover{
+
+ 	color: green;
+ }
+
+.interests{
 	border: cover;
 	background-color: rgba(191, 191, 191, 0.5);
     color: white; /*rgb(255, 0, 255);*/
