@@ -20,11 +20,11 @@ background-color: transparent;
  	
  }
 
- img
+ /*img
  {
  	float: left
  	
- }
+ }*/
 
  .nav-header{
 
@@ -33,7 +33,7 @@ background-color: transparent;
 
  }
 
-  .nav-header p{
+ .nav-header p{
      
       
        display: inline;
@@ -51,7 +51,6 @@ background-color: transparent;
 
  	color: green;
  }
-
 .interests{
 	border: cover;
 	background-color: rgba(191, 191, 191, 0.5);
