@@ -1,7 +1,12 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
 body{
 	background-image: url('../images/apps.jpg');
 	background-size: cover;
-	background-attachment:fixed;
 	
 }
 
